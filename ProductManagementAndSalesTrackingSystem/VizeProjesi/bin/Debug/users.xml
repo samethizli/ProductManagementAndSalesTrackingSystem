@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kullanıcılar>
+  <kullanıcı>
+    <kullanıcıadı>ebruidman</kullanıcıadı>
+    <sifre>12345</sifre>
+  </kullanıcı>
+  <kullanıcı>
+    <kullanıcıadı>aliUzun</kullanıcıadı>
+    <sifre>321</sifre>
+  </kullanıcı>
+  <kullanıcı>
+    <kullanıcıadı>VeyselTopçu</kullanıcıadı>
+    <sifre>6431</sifre>
+  </kullanıcı>
+  <kullanıcı>
+    <kullanıcıadı>HikmetUyanık23</kullanıcıadı>
+    <sifre>531</sifre>
+  </kullanıcı>
+  <kullanıcı>
+    <kullanıcıadı>hakanYilmaz99</kullanıcıadı>
+    <sifre>98</sifre>
+  </kullanıcı>
+  <kullanıcı>
+    <kullanıcıadı>nisam12345</kullanıcıadı>
+    <sifre>12345</sifre>
+  </kullanıcı>
+</kullanıcılar>

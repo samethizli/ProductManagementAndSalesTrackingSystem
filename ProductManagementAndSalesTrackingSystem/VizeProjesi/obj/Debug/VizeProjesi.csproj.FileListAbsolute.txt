@@ -1,0 +1,76 @@
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.AssemblyReference.cache
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.AdminPaneli.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.UserPanel.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.kullanıcıekle.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.KullanıcıSil.resources
+C:\Users\Samet Hızlı\source\repos\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.ürünFiyatGuncelle.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.AdminPaneli.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.kullanıcıekle.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.KullanıcıSil.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.UserPanel.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.ürünFiyatGuncelle.resources
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\Desktop\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.AssemblyReference.cache
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csprojAssemblyReference.cache
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.AdminPaneli.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.kullanıcıekle.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.KullanıcıSil.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.UserPanel.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.ürünFiyatGuncelle.resources
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.AssemblyReference.cache
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.AdminPaneli.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.kullanıcıekle.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.KullanıcıSil.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.UserPanel.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.ürünFiyatGuncelle.resources
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\Samet Hızlı\Desktop\ \2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe.config
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.exe
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\bin\Debug\VizeProjesi.pdb
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csprojAssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.AdminPaneli.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.kullanıcıekle.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.KullanıcıSil.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.UserPanel.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.ürünFiyatGuncelle.resources
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.exe
+C:\Users\samet\OneDrive\Masaüstü\ \Arel\2.Sınıf\1.Dönem\Görsel Proglamlama II\Vize_Proje_Ödevi\Samet_Hizli_211030089\VizeProjesi\VizeProjesi\obj\Debug\VizeProjesi.pdb

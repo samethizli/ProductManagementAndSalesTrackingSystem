@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ürünler>
+  <ürün>
+    <ürünadı>Cafe Latte</ürünadı>
+    <ürünfiyat>45</ürünfiyat>
+  </ürün>
+  <ürün>
+    <ürünadı>Americano</ürünadı>
+    <ürünfiyat>35</ürünfiyat>
+  </ürün>
+  <ürün>
+    <ürünadı>Espresso</ürünadı>
+    <ürünfiyat>45</ürünfiyat>
+  </ürün>
+  <ürün>
+    <ürünadı>Filtre Kahve</ürünadı>
+    <ürünfiyat>25</ürünfiyat>
+  </ürün>
+</ürünler>
